@@ -14,3 +14,7 @@ Açılış ekranından karakter seçerek oyuna başlayabilirsiniz...
 
 
 ÖMER KAÇAMAK 190201109
+
+
+
+RAPORDA UYGULAMA İÇİ GÖRÜNTÜLER MEVCUTTUR
